@@ -1,0 +1,9 @@
+From: stephen.marquard@uct.ac.za
+Subject: [sakai] svn commit: r39772 - content/branches/sakai_2-5-x/content-impl/impl/src/java/org/sakaiproject/content/impl
+X-Content-Type-Outer-Envelope: text/plain; charset=UTF-8
+X-Content-Type-Message-Body: text/plain; charset=UTF-8
+Content-Type: text/plain; charset=UTF-8
+X-DSPAM-Result: Innocent
+X-DSPAM-Processed: Sat Jan  5 09:14:16 2008
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Probability: 0.0000
